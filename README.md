@@ -12,7 +12,6 @@
 | **This repo** | https://github.com/Subodh2801/Insurance-Claims-Fraud-using-ML |
 
 Flask app for **fraud detection** and **loss severity** prediction on insurance claims, with training and evaluation views.  
-College / team work — acknowledge your group in reports as required by your instructor.
 
 ## Requirements
 
@@ -59,7 +58,6 @@ git push -u origin main
 
 If `origin` already exists: `git remote set-url origin https://github.com/Subodh2801/Insurance-Claims-Fraud-using-ML.git` then `git push -u origin main`.
 
-**Teammates:** use your own GitHub username and repo name in the URL instead.
 
 ## Project layout
 
@@ -72,5 +70,4 @@ If `origin` already exists: `git remote set-url origin https://github.com/Subodh
 | `trained_models/` | Saved models (local only; `.pkl` ignored by Git) |
 
 ## License
-
-College / team project — set a license if you need one for submission.
+Nothing
